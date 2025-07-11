@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/rubiks-cube-explorer-2f996e39/rubik_cube_frontend"
+}
